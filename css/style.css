@@ -1,0 +1,40 @@
+#sesion1, #sesion2, #sesion3, #sesion4, #sesion5, #sesion6, #sesion7, #sesion8, #sesion9{
+	height: 100vh;
+}
+
+
+div.row{
+	margin-right: 0px;
+ }
+ 
+ div.container-fluid{
+	padding-right: 0px;
+ }
+
+
+ p{
+	 font-size: 17px;
+ }
+
+ .navegacion-titulo{
+	background-color:#D40F10;
+	color: #fff;
+	border-radius: 30px;
+	padding: 10px;
+ }
+
+
+ .color-rojo{
+  color: #D40F10;
+}
+
+.titulo-antecedente{
+  text-transform: lowercase;
+}
+
+
+@media (min-width: 1200px){
+  .alto{
+    margin-top: 90px;
+  }
+}
